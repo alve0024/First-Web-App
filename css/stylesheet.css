@@ -1,0 +1,14 @@
+* {
+	padding: 0;
+	margin: 0;
+	border-collapse: collapse;
+}
+
+.ui-icon-myicon:after {
+    background-image: url("css/21-skull.png");
+}
+
+h3 {
+	text-align: center;
+}
+
